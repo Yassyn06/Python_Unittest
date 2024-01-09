@@ -18,3 +18,5 @@ class Calcul:
         if b == 0:
             raise ZeroDivisionError("Division par zéro impossible")
         return a / b
+    
+    # Petite modif pour tester
